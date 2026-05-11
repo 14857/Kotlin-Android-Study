@@ -10,8 +10,6 @@
 - Android
 - Jetpack Compose
 - Coroutine
-- Firebase
-- Algorithm
 
 ---
 
